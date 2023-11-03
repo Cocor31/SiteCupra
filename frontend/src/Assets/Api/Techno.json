@@ -1,0 +1,38 @@
+[
+    {
+        "id": "0",
+        "name": "Cupra Connect",
+        "coverName": "cupra-connect.avif",
+        "description": "L’application CUPRA CONNECT apporte les nouvelles connectivité et technologie automobiles. Gardez le contact avec votre voiture. N’importe où, n’importe quand. Gérez le confort et la sécurité de votre véhicule ainsi que son accès à distance entièrement depuis votre smartphone."
+    },
+    {
+        "id": "1",
+        "name": "Trailer Assist",
+        "coverName": "trailer-assist.avif",
+        "description": "Conduire avec une remorque peut être compliqué, même pour les conducteurs experimentés. Le Trailer Assist vous accompagne dans la direction de l'attelage pour vous aider lors de manoeuvres délicates."
+    },
+    {
+        "id": "2",
+        "name": "Système audio BeatsAudio",
+        "coverName": "audio.webp",
+        "description": "Faites plaisir à tous vos passagers en diffusant chacune de leurs demandes en qualité irréprochable via le puissant système audio BeatsAudio™."
+    },
+    {
+        "id": "3",
+        "name": "Écran tactile 9,2”",
+        "coverName": "écran.avif",
+        "description": "Le nouvel écran tactile flottant de 9,2’’ est conçu pour toujours se trouver dans votre champ de vision, ce qui améliore l’ergonomie, la sécurité et le plaisir de conduire en général."
+    },
+    {
+        "id": "4",
+        "name": "Caméra de recul",
+        "coverName": "camera.webp",
+        "description": "Grâce à la caméra de recul, vous avez une vue claire de ce qui se trouve derrière vous afin de manœuvrer en toute sérénité."
+    },
+    {
+        "id": "5",
+        "name": "Full Link",
+        "coverName": "full-link.webp",
+        "description": "Avec la technologie Full Link, vous retrouvez l'essentiel de votre smartphone directement sur l'écran de votre véhicule."
+    }
+]

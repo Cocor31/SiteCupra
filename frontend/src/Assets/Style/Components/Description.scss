@@ -1,0 +1,130 @@
+.Description {
+    padding-top: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    color: $color-text-general;
+
+    .Collapse-header {
+        & img {
+            height: 16px;
+            width: 50px;
+            background-color: $color-defile;
+            opacity: 0.4;
+            border-radius: 5px;
+            padding: 5px;
+        }
+
+        & img:hover {
+            opacity: 0.7;
+        }
+
+        & p {
+            font-weight: 800;
+            color: $color-text-on-bg;
+        }
+    }
+
+    .Collapse-description {
+        display: grid;
+        grid-template-columns: 2fr 3fr 1fr;
+        background-color: $color-section-bg;
+        border-radius: 25px;
+        border-bottom: solid 1px $color-gold-cupra-fonce-soft;
+        border-right: solid 1px $color-gold-cupra-fonce-soft;
+        box-shadow: 5px 5px 5px $color-box-shadows;
+
+        @media only screen and (max-width : 1024px) {
+            display: flex;
+            flex-direction: column;
+        }
+
+        @media only screen and (max-width : 740px) {
+            flex-direction: column;
+            width: 100%;
+        }
+
+        .ContainerMotorisation {
+            padding: 5px;
+            display: flex;
+            flex-direction: column;
+            padding-left: 30px;
+            padding-bottom: 10px;
+
+            @media only screen and (max-width : 1024px) {
+                padding-left: 0px;
+            }
+
+            & h3 {
+                @media only screen and (max-width : 1024px) {
+                    padding-left: 0px;
+                    text-align: center;
+                }
+
+                @media only screen and (max-width : 740px) {}
+            }
+
+            .List-Motors {
+                list-style: none;
+                margin-top: 3px;
+                text-align: center;
+
+                & li:hover {
+                    cursor: pointer;
+                }
+
+                .ItemSelected {
+                    background-color: $color-bg-item-selected;
+                    color: $color-text-item-selected;
+                    border-radius: 5px;
+                }
+
+                @media only screen and (max-width : 1024px) {
+                    display: flex;
+                    flex-wrap: wrap;
+                    padding: 5px;
+                    gap: 0.5em;
+
+                    & li {
+                        padding: 2px;
+                        border: solid 1px $color-arriere-plan;
+                        border-radius: 5px;
+                    }
+                }
+
+                @media only screen and (max-width : 740px) {}
+            }
+        }
+
+        .Detail {
+            padding: 5px;
+            padding-left: 20px;
+            padding-right: 20px;
+            border-right: solid 1px $color-arriere-plan;
+            border-left: solid 1px $color-arriere-plan;
+            font-size: 18px;
+
+            @media only screen and (max-width : 1024px) {
+                border: none;
+                padding: 5px;
+                border-top: solid 1px $color-arriere-plan;
+                border-bottom: solid 1px $color-arriere-plan;
+            }
+
+            @media only screen and (max-width : 740px) {}
+        }
+
+        .Prix {
+            padding: 5px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+
+            & h3 {
+                font-size: 35px;
+            }
+        }
+    }
+}

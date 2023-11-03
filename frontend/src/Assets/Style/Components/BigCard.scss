@@ -1,0 +1,23 @@
+.BigCard {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    & img {
+        height: 600px;
+
+        @media only screen and (max-width : 1024px) {
+            height: 400px;
+        }
+
+        @media only screen and (max-width : 740px) {
+            height: 250px;
+        }
+    }
+
+    & h2 {
+        text-align: center;
+        color: $color-text-on-bg;
+        font-size: 40px;
+    }
+}

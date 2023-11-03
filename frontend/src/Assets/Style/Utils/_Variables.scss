@@ -1,0 +1,40 @@
+$color-primary: #ff6060;
+$color-black: #000000;
+$color-white: #ffffff;
+
+$color-black-transparent: rgba(0, 0, 0, 0.2);
+$color-grey: grey;
+$color-grey-soft: rgba(128, 128, 128, 0.1);
+
+$color-gold-cupra-clair: #e39952;
+$color-gold-cupra-midle: #a06d3d;
+$color-gold-cupra-fonce: #784d22;
+
+$color-gold-cupra-midle-transparent: rgba(160, 109, 61, 0.2);
+$color-gold-cupra-fonce-transparent: rgba(120, 77, 34, 0.2);
+$color-gold-cupra-fonce-soft: rgba(120, 77, 34, 0.4);
+
+$color-dark-blue: #224e78f6;
+
+
+/*global params color*/
+$color-arriere-plan: $color-black; //$color-white;
+$color-titles-on-navbar-selected: $color-gold-cupra-clair;
+$color-titles-on-navbar: $color-gold-cupra-midle;
+$color-text-on-bg: $color-gold-cupra-midle;
+$color-section-titles: $color-gold-cupra-midle;
+$color-section-bg: $color-grey-soft;
+
+$color-text-general: $color-gold-cupra-midle;
+$color-border-general: $color-gold-cupra-fonce;
+$color-defile : $color-gold-cupra-fonce;
+
+$color-form-contact: $color-grey-soft;
+$color-form-input-bg: $color-gold-cupra-fonce;
+
+$color-bg-item-selected: $color-text-general;
+$color-text-item-selected: $color-arriere-plan;
+
+$color-box-shadows : $color-gold-cupra-fonce-transparent;
+
+$color-border-section: $color-gold-cupra-fonce-soft;

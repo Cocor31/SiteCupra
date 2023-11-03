@@ -1,0 +1,23 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 30px;
+    background-color: $color-arriere-plan;
+
+    & .navlink {
+        color: $color-titles-on-navbar;
+        margin-left: 20px;
+        text-decoration: none;
+        font-size: 18px;
+        font-weight: 500;
+    }
+
+    & .navlink:hover {
+        color: $color-titles-on-navbar-selected ;
+    }
+
+    & img {
+        height: 150px;
+    }
+}

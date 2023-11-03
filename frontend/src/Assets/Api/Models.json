@@ -1,0 +1,195 @@
+[
+    {
+        "id": "0",
+        "name": "Cupra Ateca",
+        "coverName": "cupra-ateca-model-conversion.avif",
+        "motor": [
+            {
+                "name": "2.0 TSI 300",
+                "prix": "43100",
+                "cvDin": "300"
+            },
+            {
+                "name": "1.7 TDI",
+                "prix": "47100",
+                "cvDin": "140"
+            }
+        ],
+        "pictures": [
+            "",
+            ""
+        ],
+        "description": "La CUPRA Ateca entre dans une nouvelle ère avec un design plus audacieux et distingué, un moteur puissant de 300 ch et une expérience de conduite plus sensationnelle, parfaitement conçue pour refléter votre côté aventurier.",
+        "prix": 21600
+    },
+    {
+        "id": "1",
+        "name": "Cupra Born",
+        "coverName": "cupra-born-model-conversion.avif",
+        "motor": [
+            {
+                "name": "110 kW",
+                "prix": "43 800",
+                "cvDin": "150"
+            },
+            {
+                "name": "150 kW",
+                "prix": "45 400",
+                "cvDin": "204"
+            },
+            {
+                "name": "170 kW",
+                "prix": "48 300",
+                "cvDin": "231"
+            }
+        ],
+        "pictures": [
+            "",
+            ""
+        ],
+        "description": "100% électrique. La CUPRA Born est dotée de technologies de pointe telles qu'un affichage tête haute avec réalité augmentée. La voiture sera capable de parcourir jusqu'à 500 km sur une seule charge grâce à l'efficience de sa batterie de 77 kWh (82 kWh bruts).",
+        "prix": 28000
+    },
+    {
+        "id": "2",
+        "name": "Cupra Formentor",
+        "coverName": "cupra-formentor-model-conversion.avif",
+        "motor": [
+            {
+                "name": "1.5 TSI 150 BVM6",
+                "prix": "33050",
+                "cvDin": "150"
+            },
+            {
+                "name": "2.0 TSI 190 DSG7 4Drive",
+                "prix": "39250",
+                "cvDin": "190"
+            },
+            {
+                "name": "2.0 TSI 245 DSG7",
+                "prix": "40470",
+                "cvDin": "245"
+            },
+            {
+                "name": "1.4 e-Hybrid 204 DSG",
+                "prix": "41150",
+                "cvDin": "204"
+            },
+            {
+                "name": "1.4 e-HYBRID 245 DSG6",
+                "prix": "45040",
+                "cvDin": "245"
+            },
+            {
+                "name": "2.0 TDI 150 BVM6",
+                "prix": "36350",
+                "cvDin": "150"
+            }
+        ],
+        "pictures": [
+            "",
+            ""
+        ],
+        "description": "Notre modèle à l’ADN 100% CUPRA. Un SUV coupé sur mesure, unique, audacieux et tout en puissance innovatrice. Le meilleur des hautes performances que vous pouvez attendre de CUPRA.",
+        "prix": 36000
+    },
+    {
+        "id": "3",
+        "name": "Cupra Leon SP",
+        "coverName": "cupra-leon-sp-model-conversion.avif",
+        "motor": [
+            {
+                "name": "1.4 e-HYBRID 245 DSG6",
+                "prix": "42238",
+                "cvDin": "245"
+            },
+            {
+                "name": "1.4 e-HYBRID 204 DSG6",
+                "prix": "40422",
+                "cvDin": "204"
+            },
+            {
+                "name": "1.5 TSI 150 DSG7",
+                "prix": "41490",
+                "cvDin": "150"
+            },
+            {
+                "name": "2.0 TSI 300 DSG7",
+                "prix": "52390",
+                "cvDin": "300"
+            },
+            {
+                "name": "2.0 TSI 310 DSG7 4DRIVE",
+                "prix": "54290",
+                "cvDin": "310"
+            }
+        ],
+        "pictures": [
+            "",
+            ""
+        ],
+        "description": "Repoussez les limites en combinant sportivité et efficience. La nouvelle CUPRA Leon Sportstourer s'affirme en tant que modèle sportif électrique. Combinez les deux moteurs sur route ou utilisez le mode électrique en ville pour ne produire aucune émission sur 52 km. Équipée d’une technologie inspirante : Digital Cockpit de 10,25'' et écran tactile de 10'' avec commande vocale.",
+        "prix": 45000
+    },
+    {
+        "id": "4",
+        "name": "Cupra Leon ST",
+        "coverName": "cupra-leon-st-model-conversion.avif",
+        "motor": [
+            {
+                "name": "2.0 TDI 150 DSG7",
+                "prix": "46490",
+                "cvDin": "150"
+            },
+            {
+                "name": "1.4 e-HYBRID 204 DSG6",
+                "prix": "48090",
+                "cvDin": "204"
+            },
+            {
+                "name": "1.4 e-HYBRID 245 DSG6",
+                "prix": "50190",
+                "cvDin": "245"
+            },
+            {
+                "name": "2.0 TSI 300 DSG7",
+                "prix": "48840",
+                "cvDin": "300"
+            },
+            {
+                "name": "2.0 TSI 310 DSG7 4DRIVE",
+                "prix": "51240",
+                "cvDin": "310"
+            }
+        ],
+        "pictures": [
+            "",
+            ""
+        ],
+        "description": "La Cupra León est motorisée en essence par un moteur 4-cylindres en ligne 2,0 litres développant 245 ou 300 ch, voire 310 ch pour la León Sportstourer (ST) en transmission intégrale (4Drive). En hybride rechargeable (plug-in hybrid), elle associe un moteur 4-cylindres en ligne 1.4 TSI 150 ch avec un électromoteur de 115 ch pour une puissance cumulée de 245 ch alimenté par une batterie lithium-ion d'une capacité de 13 kWh5. Toutes les motorisations sont accouplées à la boîte à double embrayage à 7 rapports sauf sur la e-Hybrid en 6 rapports.",
+        "prix": 49000
+    },
+    {
+        "id": "5",
+        "name": "Cupra Tavascan",
+        "coverName": "cupra-tavascan.avif",
+        "motor": [
+            {
+                "name": "210 kW",
+                "prix": "51290",
+                "cvDin": "285"
+            },
+            {
+                "name": "250 kW",
+                "prix": "55190",
+                "cvDin": "340"
+            }
+        ],
+        "pictures": [
+            "",
+            ""
+        ],
+        "description": "Le Tavascan est un modèle électrique de Cupra, succédant à la Born. Il s'agit d'un SUV dont les dimensions sont de 4,64 mètres en longueur, 1,86 mètre en largeur et 1,60 mètre en hauteur. La face avant est marquée par une large ouverture centrale, flanquée de phares Matrix LED composés de trois éléments triangulaires.",
+        "prix": 56000
+    }
+]

@@ -1,0 +1,34 @@
+.Techno {
+    & h2 {
+        padding-left: 30px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        color: $color-section-titles;
+        border-bottom: solid 1px $color-arriere-plan;
+
+        @media only screen and (max-width : 1024px) {
+            padding-left: 0px;
+            text-align: center;
+        }
+
+        @media only screen and (max-width : 740px) {
+            grid-template-columns: repeat(1, 1fr);
+        }
+    }
+
+    & .list-techno-cards {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 30px 30px;
+        padding: 30px 30px;
+        height: 100%;
+
+        @media only screen and (max-width : 1024px) {
+            grid-template-columns: repeat(2, 1fr);
+        }
+
+        @media only screen and (max-width : 740px) {
+            grid-template-columns: repeat(1, 1fr);
+        }
+    }
+}

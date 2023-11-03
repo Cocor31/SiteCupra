@@ -1,0 +1,26 @@
+[
+    {
+        "id": "0",
+        "name": "Lane Assist",
+        "coverName": "lane-assist.avif",
+        "description": "Conduisez en toute sécurité, le Lane Assist vous assure de rester centré dans votre voie."
+    },
+    {
+        "id": "1",
+        "name": "ACC – Régulateur de vitesse adaptatif",
+        "coverName": "adaptive-cruise-control.avif",
+        "description": "Pour une conduite parfaitement sereine, le système ACC maintient automatiquement la vitesse de croisière choisie tout en respectant les distances de sécurité avec le véhicule qui vous précède."
+    },
+    {
+        "id": "2",
+        "name": "Sign Assist",
+        "coverName": "sign-assist.avif",
+        "description": "Le système de reconnaissance des panneaux de signalisation affiche les limites de vitesse et les restrictions de dépassement directement sur votre Digital Cockpit, pour que vous ne manquiez aucune information routière."
+    },
+    {
+        "id": "3",
+        "name": "Travel Assist",
+        "coverName": "travel-assists.avif",
+        "description": "L’assistant à la conduite surveille votre trajet et vous maintient de manière autonome à la bonne vitesse pour une conduite facilitée."
+    }
+]

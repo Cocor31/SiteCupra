@@ -1,0 +1,13 @@
+.Slider {
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 60px;
+
+    & h2 {
+        padding-left: 20px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        color: $color-section-titles;
+        border-bottom: solid 1px $color-arriere-plan;
+    }
+}
